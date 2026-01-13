@@ -109,7 +109,7 @@ The SoC design flow defines the stages from conceptualization to implementation.
    - A small RISC-V processor designed for rapid educational deployment.  
    - Demonstrates basic CPU operations, instruction execution, and SoC integration.  
 
-   ![RVMyth SoC](.Screenshots/vsd_babysoc.png)
+   ![RVMyth SoC]()
 
 2. **PLL (Phase-Locked Loop)**  
    - Generates stable and synchronized clock signals necessary for proper SoC operation.  
